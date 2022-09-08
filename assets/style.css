@@ -33,8 +33,12 @@ body{
     font-weight: bold;
 }
 
-.nav-3{
+.back-img{
     background-image: url('../images/MaskGroup.png');
+}
+
+.nav-3{
+    /* background-image: url('../images/MaskGroup.png'); */
     background-repeat: no-repeat;
     background-size: cover;
     height: 350px;
